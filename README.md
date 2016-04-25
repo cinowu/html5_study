@@ -14,9 +14,32 @@
 - Bootstrap教程：http://www.runoob.com/bootstrap/bootstrap-tutorial.html
 - Bootstrap可视化布局系统：http://www.bootcss.com/p/layoutit/
 - Bootstrap UI编辑器：http://www.runoob.com/bootstrap/bootstrap-ui-editor.html
+- bootswatchr编辑器：http://bootswatchr.com/create#!/edit/91c50dda
+- layoutit：http://layoutit.justjavac.com/
+- layoutit：http://layout.ruby-world.com/
+- layoutit：http://www.bootcss.com/p/layoutit/
+- layoutit：http://www.layoutit.cn/v3/index.html
+- layoutit：http://www.layoutit.com/build
+- layoutit：http://www.ibootstrap.cn/
+
 
 ##Semantic-UI学习
 - 中文网：http://www.semantic-ui.cn/
+
+
+##AdminLTE
+- AdminLTE：https://www.almsaeedstudio.com/preview
+
+##metronic
+- metronic：http://www.cnblogs.com/wuhuacong/p/4757984.html
+- metronic：http://www.yyyweb.com/demo/metronic-bootstrap/index.html
+
+##管理后台模板
+- 模板：http://www.daimajiayuan.com/list-114.html
+- 模板：http://www.17sucai.com/category/2/47/63
+- 模板：http://www.sharethemes.cn/html/list_1490.html
+- 模板：http://bluereader.org/article/102172643
+
 
 ##跨屏开发
 - zui：http://zui.sexy/
